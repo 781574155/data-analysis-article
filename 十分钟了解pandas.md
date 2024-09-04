@@ -1353,4 +1353,4 @@ ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.i
 
 我在[易从](https://www.openai36.com)上，用AI做了一个[使用随机森林预测泰塔尼克号幸存者](https://www.openai36.com/share/f4b5d7d1-6c38-4898-b1b6-71d8fd8e57f8)，可作为辅助参考。
 
-感谢你阅读本文！
+感谢你阅读本文！[原文地址](https://blog.openai36.com/2024/09/03/%e5%8d%81%e5%88%86%e9%92%9f%e4%ba%86%e8%a7%a3pandas/)

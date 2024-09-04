@@ -1272,3 +1272,15 @@ Name: foo1, dtype: float64
 df.foo<TAB>  # noqa: E225, E999
 df.foo1  df.foo2
 ```
+
+## 总结
+
+这是文章的最后一部分了——非常感谢你能阅读到最后。
+
+希望这篇文章对你有所帮助。
+
+如果你对AI+数据分析感兴趣，可以试试[易从](https://www.openai36.com)这个网站。这个网站，无需懂数学，无需会Python，用聊天的方式就能完成数据分析。把excel（或csv）上传给大模型，大模型根据聊天指令自动完成数据分析。
+
+我在[易从](https://www.openai36.com)上，用AI做了一个[使用随机森林预测泰塔尼克号幸存者](https://www.openai36.com/share/f4b5d7d1-6c38-4898-b1b6-71d8fd8e57f8)，可作为辅助参考。
+
+感谢你阅读本文！[原文地址](https://blog.openai36.com/2024/09/04/pandas%e6%95%b0%e6%8d%ae%e7%bb%93%e6%9e%84%e7%ae%80%e4%bb%8b/)
