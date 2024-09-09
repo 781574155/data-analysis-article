@@ -599,7 +599,7 @@ Out[60]:
 
 ## 操作
 
-参阅[二进制操作中的基本部分](https://pandas.pydata.org/pandas-docs/stable/user_guide/basics.html#basics-binop "二进制操作中的基本部分")。
+参阅[基本功能中的二元操作部分](https://pandas.pydata.org/pandas-docs/stable/user_guide/basics.html#basics-binop "基本功能中的二元操作部分")。
 
 ### 统计
 
